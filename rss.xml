@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Oct 2021 04:02:48 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[デジタルアーカイブシステムの技術ブログ]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Oct 2021 12:32:30 GMT</lastBuildDate><item><title><![CDATA[ジャパンナレッジで検索を行うChrome拡張機能を公開しました。]]></title><description><![CDATA[概要 ジャパンナレッジで検索を行う Chrome…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/jk/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/jk/</guid><pubDate>Sat, 02 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;ジャパンナレッジで検索を行う Chrome 拡張機能を公開しました。&lt;/p&gt;
+&lt;p&gt;以下のように、選択した文字列をクエリとして、右クリックからジャパンナレッジの検索結果を表示します。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4845a7b9b1a50b834e0857cb30f56a87/6af66/20210929140017.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.65822784810127%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACAklEQVQ4y62T3Y6bMBCF8/5XvWrfondVH6A3K1VbhZAlBLBjMNj8JCRKaJY0kNMeZ9lI7W0tjQbG5uOcGZjhP6/ZOI7IiwJKKazXa1hr0XUdDoeDC96XZYm2bVHXNYqicJmhtcZut8N+v3dnh2HA7Ha7OVgURQ6YpimapkFVVcjzHJvNBkIIZFnmrglhnef4zATdbre4Xq93hSxIKWGMcQ8yCCSI6njPfcb0ItYIpeJ/LFPhZI1vvQNraCrJMpcJI4B5Usjg2WnRrbNMGKGUP9kyRY48U7CFRmULCJE4EPf0m4upRezn8Xh8KCSQByif2ZgCebnFc6AQyBKLxCCRCmVVoqprF+wz1ddN7cQQ+g6M4xhBELieCSEh4jW+eQqfvsb4+CXAh89z5LbFeOnR/zzj3HXoz2dcL79weX3FOAwPy39/RyxyXUegu9xjf+phRIrV8xzCDxDNfeSRQKNyVDJFU1gM4/hQyJGzN1TIHt7t56hLC7WRrp8yCCGXK5QEpLnLW22wywzasn4X4oYyDYMNTpLE9ZLXHIKQEkqlCD0f3tN3B1398BB5PuLFC2qlYVONvu8fQAIIZXMJ5JAIY93tZRkib4nNS+gAtGuFgo4Sp1YnEsfT6QGc/hRaJZAD4vcWhiGsNTC2ROE9QS8XSJZ361TH3GqDzTrCwvcx/PlTfgPoDsdRM2zFOQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;20210929140017&quot;
+        title=&quot;20210929140017&quot;
+        src=&quot;/static/4845a7b9b1a50b834e0857cb30f56a87/f058b/20210929140017.png&quot;
+        srcset=&quot;/static/4845a7b9b1a50b834e0857cb30f56a87/c26ae/20210929140017.png 158w,
+/static/4845a7b9b1a50b834e0857cb30f56a87/6bdcf/20210929140017.png 315w,
+/static/4845a7b9b1a50b834e0857cb30f56a87/f058b/20210929140017.png 630w,
+/static/4845a7b9b1a50b834e0857cb30f56a87/6af66/20210929140017.png 640w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;本記事では、この拡張機能の使い方について説明します。&lt;/p&gt;
+&lt;h2&gt;インストール&lt;/h2&gt;
+&lt;p&gt;以下のページにアクセスして、「Chrome に追加」ボタンをクリックしてください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/japan-knowledge-%E6%A4%9C%E7%B4%A2/doidhbpgbhfomddehalamilioomokefl&quot;&gt;https://chrome.google.com/webstore/detail/japan-knowledge-%E6%A4%9C%E7%B4%A2/doidhbpgbhfomddehalamilioomokefl&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;設定&lt;/h2&gt;
+&lt;p&gt;以下の URL を Chrome のアドレスバーに入力し、検索条件の設定を行います。入力項目として、「URL」と「その他のクエリ」の 2 種類があります。&lt;/p&gt;
+&lt;p&gt;chrome-extension://cppjkneekbjaeellbfkmgnhonkkjfpdn/options.html&lt;/p&gt;
+&lt;h3&gt;URL&lt;/h3&gt;
+&lt;p&gt;検索で使用するジャパンナレッジの URL を指定します。ご自身の環境や契約内容に応じて設定してください。「JK Lib」「JK Personal」ボタンをクリックすると、それぞれの URL が入力されます。&lt;/p&gt;
+&lt;p&gt;また、例えば東京大学では EZproxy を使い、学外から以下の URL でジャパンナレッジにアクセスすることができます。このような場合は、URL を直接入力してください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://japanknowledge-com.utokyo.idm.oclc.org/lib&quot;&gt;https://japanknowledge-com.utokyo.idm.oclc.org/lib&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;その他のクエリ&lt;/h3&gt;
+&lt;p&gt;この項目では、検索文字列（q1）以外のクエリパラメータを入力します。例えば、「ロベール仏和大辞典」のボタンをクリックすると、当該コンテンツ（cids=42200）に検索対象を限定するクエリパラメータが入力されます。&lt;/p&gt;
+&lt;p&gt;その他の検索条件の指定方法については、ジャパンナレッジの検索結果の URL 等を参考にしてください。&lt;/p&gt;
+&lt;h2&gt;検索&lt;/h2&gt;
+&lt;p&gt;検索したい文字列を選択し、右クリックを行うことで、「ジャパンナレッジで XXX を検索」のメニューが表示されますので、そちらをクリックして検索してください。&lt;/p&gt;
+&lt;h2&gt;まとめ&lt;/h2&gt;
+&lt;p&gt;ジャパンナレッジを利用する際の参考になれば幸いです。&lt;/p&gt;
+&lt;h2&gt;ソースコード&lt;/h2&gt;
+&lt;p&gt;ソースコードは以下でご確認いただけます。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nakamura196/jk_search&quot;&gt;https://github.com/nakamura196/jk_search&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
